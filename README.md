@@ -4,6 +4,7 @@ Este projeto foi desenvolvido como parte de uma atividade acadêmica da faculdad
 
 ## 🚀 Tecnologias Utilizadas
 
+- **Django**: Framework web utilizado para o backend do projeto, gerenciando a lógica de exibição de filmes e integração com o banco de dados.
 - **HTML5**: Estruturação do conteúdo da página.
 - **CSS3**: Estilização e layout responsivo.
 - **JavaScript**: Interatividade básica, como eventos de hover e animações simples.
